@@ -4,7 +4,7 @@ I'm a **Software Engineering** student at **University of Aveiro**
 
 ---
 
-### 🛠️ Tech Stack & Technologies
+### 🛠️ Tech Stack 
 Building projects and solving problems using:
 
 <p align="left">
