@@ -9,6 +9,6 @@ Building projects and solving problems using:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,js,postgres,bash,matlab,mysql,docker,redis,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,js,postgres,bash,matlab,mysql,docker,redis,react,mongo&theme=dark" />
   </a>
 </p>
