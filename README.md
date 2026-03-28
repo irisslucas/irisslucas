@@ -1,6 +1,6 @@
 # Hi, I'm Íris Lucas! 
 
-I'm a **Software Engineering** student at **University of Aveiro** 
+I'm a **Software Engineering** student at **Universidade de Aveiro** 
 
 ---
 
